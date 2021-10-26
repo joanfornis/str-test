@@ -1,6 +1,11 @@
 # str-test
 ### React.js App with google.maps API and markers.
 
+## Before starting
+
+Change the google maps API key in **/public/index.html**
+
+
 ## Getting started
 
 After install `npm i` **to install dependences**.
